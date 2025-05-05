@@ -5,7 +5,7 @@ A Streamlit web app that lets users upload multiple PDFs, extract their content,
 
 The Multi-PDF's Chat Agent is built using Streamlit and LangChain libraries. It provides a user-friendly interface for users to upload PDF documents, extract textual information from them, train a chatbot on the extracted content, and then have conversations with the chatbot.
 
-![PDF_LangChain_Flow](https://github.com/Hashir-Ahmad1/Train-AI-agent-on-mutiple-PDF/assets/107747904/f2be65a9-b113-4843-b2d7-c96b06b80922)
+
 
 ## Features
 
